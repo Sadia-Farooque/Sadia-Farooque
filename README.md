@@ -144,23 +144,6 @@ Selected on merit from the full student cohort. Co-organized **SIBAthon'26** —
 
 ---
 
-## Currently Exploring
-
-```yaml
-active_research:
-  - Advanced model calibration and fairness metrics
-  - Deployment pipelines: FastAPI + Streamlit → production
-  - Graph-based risk modelling for financial systems
-  - Responsible AI evaluation frameworks
-
-next_up:
-  - MLOps fundamentals: versioning, drift detection, monitoring
-  - First live public deployment
-  - Open-source contributions in data science tooling
-```
-
----
-
 ## GitHub Activity
 
 <div align="center">
