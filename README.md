@@ -63,7 +63,7 @@ Evaluation      ROC-AUC · F1-Score · RMSE · R² · Model Explainability
 Databases       MySQL · MongoDB (PyMongo) · Database Design
 CS Core         OOP · DSA · Algorithms · BFS · DFS · Dijkstra
                 Computer Networks · DBMS
-Tools           Jupyter · Git · GitHub · VS Code · Tkinter · Java Swing
+Tools           Jupyter · Git · GitHub · VS Code 
 ```
 
 ---
@@ -98,35 +98,18 @@ Selected on merit from the full student cohort. Co-organized **SIBAthon'26** —
 
 ---
 
-## Currently Exploring
-
-```yaml
-active_research:
-  - Advanced model calibration and fairness metrics
-  - Deployment pipelines: FastAPI + Streamlit → production
-  - Graph-based risk modelling for financial systems
-  - Responsible AI evaluation frameworks
-
-next_up:
-  - MLOps fundamentals: versioning, drift detection, monitoring
-  - First live public deployment
-  - Open-source contributions in data science tooling
-```
-
----
-
 ## GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=4c1d95&icon_color=7c3aed&text_color=1f2937&bg_color=ffffff"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true&langs_count=8&title_color=4c1d95&text_color=1f2937&bg_color=ffffff"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sadia-Farooque&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=4c1d95&icon_color=7c3aed&text_color=1f2937&bg_color=ffffff"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadia-Farooque&layout=compact&theme=default&hide_border=true&langs_count=8&title_color=4c1d95&text_color=1f2937&bg_color=ffffff"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default&hide_border=true&ring=7c3aed&fire=7c3aed&currStreakLabel=4c1d95"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadia-Farooque&theme=default&hide_border=true&ring=7c3aed&fire=7c3aed&currStreakLabel=4c1d95"/>
 
 </div>
 
@@ -134,9 +117,9 @@ next_up:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sadia-fatima-4334a9373/)
 [![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anamfarooque06@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/Sadia-Farooque)
 
 *"An approximate answer to the right question is worth more than a precise answer to the wrong one."* — John Tukey
 
