@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=180&text=Sadia%20Fatima&fontColor=e0e0e0&fontSize=52&fontAlignY=55&desc=Data%20Scientist%20·%20ML%20Engineer%20·%20Harvard%20Aspire%20Leader&descColor=a78bfa&descSize=16&descAlignY=78" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:2d1b69,100:1a1a2e&height=220&text=Sadia%20Fatima&fontColor=f3f4f6&fontSize=52&fontAlignY=42&desc=Data%20Scientist%20·%20ML%20Engineer%20·%20Harvard%20Aspire%20Leader&descColor=a78bfa&descSize=17&descAlignY=62&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+ML+systems+that+explain+themselves.;Leader+first%2C+engineer+always.;From+SHAP+values+to+shipped+products.;Explainable+AI+%7C+Fintech+ML+%7C+Responsible+Systems." alt="Typing SVG" />
 
 </div>
 
@@ -55,16 +59,58 @@ Built to demonstrate what disciplined OOP actually looks like in a non-trivial c
 
 ## Technical Skills
 
-```
-Languages       Python · Java · C++ · JavaScript · HTML/CSS · SQL
-ML & Data       Scikit-learn · XGBoost · SHAP · Pandas · NumPy
-                Matplotlib · Seaborn · Feature Engineering · EDA
-Evaluation      ROC-AUC · F1-Score · RMSE · R² · Model Explainability
-Databases       MySQL · MongoDB (PyMongo) · Database Design
-CS Core         OOP · DSA · Algorithms · BFS · DFS · Dijkstra
-                Computer Networks · DBMS
-Tools           Jupyter · Git · GitHub · VS Code 
-```
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**ML & Data Science**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP%20Explainability-7C3AED?style=flat-square&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=flat-square&logoColor=white)
+
+**Evaluation & Model Quality**
+
+![ROC-AUC](https://img.shields.io/badge/ROC--AUC-0f766e?style=flat-square)
+![F1-Score](https://img.shields.io/badge/F1--Score-0f766e?style=flat-square)
+![RMSE](https://img.shields.io/badge/RMSE-0f766e?style=flat-square)
+![R²](https://img.shields.io/badge/R²-0f766e?style=flat-square)
+![Model Explainability](https://img.shields.io/badge/Model%20Explainability-0f766e?style=flat-square)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**CS Core**
+
+![OOP](https://img.shields.io/badge/OOP-1e40af?style=flat-square)
+![DSA](https://img.shields.io/badge/DSA-1e40af?style=flat-square)
+![BFS/DFS](https://img.shields.io/badge/BFS%2FDFS-1e40af?style=flat-square)
+![Dijkstra](https://img.shields.io/badge/Dijkstra-1e40af?style=flat-square)
+![DBMS](https://img.shields.io/badge/DBMS-1e40af?style=flat-square)
+![Computer Networks](https://img.shields.io/badge/Computer%20Networks-1e40af?style=flat-square)
+
+**Libraries**
+
+![Java Swing](https://img.shields.io/badge/Java%20Swing-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Tools**
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -98,6 +144,23 @@ Selected on merit from the full student cohort. Co-organized **SIBAthon'26** —
 
 ---
 
+## Currently Exploring
+
+```yaml
+active_research:
+  - Advanced model calibration and fairness metrics
+  - Deployment pipelines: FastAPI + Streamlit → production
+  - Graph-based risk modelling for financial systems
+  - Responsible AI evaluation frameworks
+
+next_up:
+  - MLOps fundamentals: versioning, drift detection, monitoring
+  - First live public deployment
+  - Open-source contributions in data science tooling
+```
+
+---
+
 ## GitHub Activity
 
 <div align="center">
@@ -109,7 +172,7 @@ Selected on merit from the full student cohort. Co-organized **SIBAthon'26** —
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadia-Farooque&theme=default&hide_border=true&ring=7c3aed&fire=7c3aed&currStreakLabel=4c1d95"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default&hide_border=true&ring=7c3aed&fire=7c3aed&currStreakLabel=4c1d95"/>
 
 </div>
 
@@ -117,7 +180,7 @@ Selected on merit from the full student cohort. Co-organized **SIBAthon'26** —
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sadia-fatima-4334a9373/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/](https://www.linkedin.com/in/sadia-fatima-4334a9373/))
 [![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anamfarooque06@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/Sadia-Farooque)
 
@@ -126,5 +189,5 @@ Selected on merit from the full student cohort. Co-organized **SIBAthon'26** —
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:2d1b69,100:1a1a2e&height=120&section=footer&animation=fadeIn" width="100%"/>
 </div>
