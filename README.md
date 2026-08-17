@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:2d1b69,100:1a1a2e&height=220&text=Sadia%20Fatima&fontColor=f3f4f6&fontSize=52&fontAlignY=42&desc=Data%20Scientist%20·%20ML%20Engineer%20·%20Harvard%20Aspire%20Leader&descColor=a78bfa&descSize=17&descAlignY=62&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:0f0c29&height=220&text=Sadia%20Fatima&fontColor=f3f4f6&fontSize=52&fontAlignY=42&desc=Data%20Scientist%20·%20ML%20Engineer%20·%20Harvard%20Aspire%20Leader&descColor=c4b5fd&descSize=17&descAlignY=62&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+ML+systems+that+explain+themselves.;Leader+first%2C+engineer+always.;From+SHAP+values+to+shipped+products.;Explainable+AI+%7C+Fintech+ML+%7C+Responsible+Systems." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+ML+systems+that+explain+themselves.;Leader+first%2C+engineer+always.;From+SHAP+values+to+shipped+products.;Explainable+AI+%7C+Fintech+ML+%7C+Responsible+Systems." alt="Typing SVG" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Sadia-Farooque&style=flat-square&color=8B5CF6&label=Profile+Views" alt="Profile views"/>
 
 </div>
 
@@ -18,7 +22,7 @@
 | 📍 **Location** | Pakistan |
 | 📊 **CGPA** | 3.65 / 4.0 (4 Semesters) |
 | 🔬 **Research Interests** | Explainable AI · Fintech ML · Responsible Systems |
-| 🏛️ **Leadership** | Harvard Aspire Leader · CS Society Executive |
+| 🏛️ **Leadership** | Harvard Aspire Leader · LoopLab Campus Ambassador · CS Society Executive |
 
 </div>
 
@@ -28,7 +32,7 @@
 
 I study computer science at IBA Sukkur and build ML systems that are **explainable, defensible, and production-aware**. My work sits at the intersection of rigorous model evaluation and real-world deployment constraints — I care as much about *why* a model predicts something as *what* it predicts.
 
-Outside of research and code, I lead. I served as Executive Member of the CS Society and co-organized **SIBAthon'26**, our university's flagship hackathon. I was selected into the **Harvard Aspire Leaders Program** from a global applicant pool. I think the best engineers are also the ones who can coordinate teams, communicate trade-offs, and build things that outlast them.
+Outside of research and code, I lead. I serve as **Campus Ambassador for LoopLab**, sit on the **CS Society** as an Executive Member, and co-organized **SIBAthon'26**, our university's flagship hackathon. I was selected into the **Harvard Aspire Leaders Program** from a global applicant pool, and completed an **international ML Summer School** alongside 10,000+ students and professors from around the world. I think the best engineers are also the ones who can coordinate teams, communicate trade-offs, and build things that outlast them.
 
 ---
 
@@ -57,6 +61,22 @@ Built to demonstrate what disciplined OOP actually looks like in a non-trivial c
 
 ---
 
+## In Progress
+
+### Raasta — AI Chatbot
+`Python` `NLP` `LLM` ![Status](https://img.shields.io/badge/Status-Coming%20Soon-8B5CF6?style=flat-square)
+
+A conversational AI assistant in active development. More details soon.
+
+---
+
+### Resume Analyzer AI
+`Python` `NLP` `ML` ![Status](https://img.shields.io/badge/Status-Coming%20Soon-8B5CF6?style=flat-square)
+
+An ML-powered tool for parsing and evaluating resumes. More details soon.
+
+---
+
 ## Technical Skills
 
 **Languages**
@@ -72,7 +92,7 @@ Built to demonstrate what disciplined OOP actually looks like in a non-trivial c
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP%20Explainability-7C3AED?style=flat-square&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP%20Explainability-8B5CF6?style=flat-square&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logoColor=white)
@@ -118,7 +138,9 @@ Built to demonstrate what disciplined OOP actually looks like in a non-trivial c
 
 | Year | Award | Body |
 |:-----|:------|:-----|
+| 2026 | **LoopLab Campus Ambassador** — Selected Representative | LoopLab |
 | 2025 | **Harvard Aspire Leaders Program** — Selected, Global Pool | Harvard University |
+| 2025 | **International ML Summer School** — 10,000+ Students & Professors Worldwide | Global Cohort |
 | 2025 | **Runner-Up**, SIBA Fest Project Competition | Sukkur IBA University |
 | 2025 | **PM Youth Laptop Scheme** — Merit Award, Top BSCS nationally | Government of Pakistan |
 | 2024 | **Certificate of Recognition**, AI & CS Expo | Sukkur IBA University |
@@ -128,6 +150,8 @@ Built to demonstrate what disciplined OOP actually looks like in a non-trivial c
 
 ## Certifications
 
+- Intro to MongoDB — Credly Badge `2026`
+- International ML Summer School — 10,000+ Students & Professors `2025`
 - Google AI Essentials — Coursera / Google `2026`
 - Google Prompting Essentials — Coursera / Google `2026`
 - Harvard Aspire Leaders Program — Harvard University `2025`
@@ -135,6 +159,10 @@ Built to demonstrate what disciplined OOP actually looks like in a non-trivial c
 ---
 
 ## Leadership
+
+**Campus Ambassador · LoopLab** `2026 – Present`
+
+Represent LoopLab on campus — driving awareness, community engagement, and program participation among students at IBA Sukkur.
 
 **Executive Member · Computer Science Society, IBA Sukkur** `2025 – 2026`
 
@@ -146,14 +174,15 @@ Selected on merit from the full student cohort. Co-organized **SIBAthon'26** —
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/](https://www.linkedin.com/in/sadia-fatima-4334a9373/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadia-fatima-4334a9373/)
 [![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anamfarooque06@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/Sadia-Farooque)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/)
 
 *"An approximate answer to the right question is worth more than a precise answer to the wrong one."* — John Tukey
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:2d1b69,100:1a1a2e&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
 </div>
