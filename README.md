@@ -1,175 +1,175 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,50:7f1d1d,100:d4af37&height=250&section=header&text=SADIA%20FATIMA&fontColor=ffffff&fontSize=50&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Explainable%20AI&descColor=e5c158&descSize=17&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030014,35:a855f7,70:ec4899,100:06b6d4&height=230&section=header&text=SADIA%20FATIMA&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Data%20Scientist%20//%20ML%20Engineer%20//%20Explainable%20AI&descColor=e9d5ff&descSize=15&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=2800&pause=1200&color=D4AF37&center=true&vCenter=true&width=700&lines=Turning+black-box+models+into+auditable+decisions.;SHAP-driven+fintech+ML+%7C+production-aware+engineering.;McKinsey+Forward+%7C+Harvard+Aspire+%7C+LoopLab.;Sukkur+IBA+University+%E2%80%94+BSCS+%2728" alt="Typing SVG"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Sadia-Farooque&style=for-the-badge&color=7f1d1d&labelColor=0a0a0a" alt="Profile views"/>&nbsp;
-<a href="https://www.linkedin.com/in/sadia-fatima-4334a9373/"><img src="https://img.shields.io/badge/LinkedIn-Connect-b91c1c?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a"/></a>&nbsp;
-<a href="mailto:anamfarooque06@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-d4af37?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0a0a0a"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2600&pause=1000&color=EC4899&center=true&vCenter=true&width=750&lines=%3E+initializing+profile...;%3E+status%3A+McKinsey+Forward+%7C+Harvard+Aspire+%7C+LoopLab;%3E+building+auditable%2C+production-aware+ML+systems;%3E+Sukkur+IBA+University+%E2%80%94+BSCS+%2728" alt="Typing SVG"/>
 
 </div>
 
 <br/>
 
-## ✨ Snapshot
+## ▓▓ SYSTEM DASHBOARD
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="16%">🎓<br/><b>Institution</b><br/>Sukkur IBA University<br/><sub>BSCS '28</sub></td>
-<td align="center" width="16%">📊<br/><b>CGPA</b><br/>3.65 / 4.0<br/><sub>4 Semesters</sub></td>
-<td align="center" width="16%">📍<br/><b>Based in</b><br/>Pakistan<br/><sub>Sindh</sub></td>
-<td align="center" width="16%">🔮<br/><b>Focus</b><br/>Explainable AI<br/><sub>Fintech ML</sub></td>
-<td align="center" width="18%">💼<br/><b>Consulting</b><br/>McKinsey Forward<br/><sub>Selected Participant</sub></td>
-<td align="center" width="18%">👑<br/><b>Leadership</b><br/>Harvard Aspire<br/><sub>LoopLab · CS Society</sub></td>
+<td align="center"><img src="https://img.shields.io/badge/INSTITUTION-Sukkur%20IBA-a855f7?style=for-the-badge&labelColor=030014"/></td>
+<td align="center"><img src="https://img.shields.io/badge/CGPA-3.65%2F4.0-ec4899?style=for-the-badge&labelColor=030014"/></td>
+<td align="center"><img src="https://img.shields.io/badge/LOCATION-Sindh%2C%20PK-06b6d4?style=for-the-badge&labelColor=030014"/></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/FOCUS-Explainable%20AI-a855f7?style=for-the-badge&labelColor=030014"/></td>
+<td align="center"><img src="https://img.shields.io/badge/McKinsey%20Forward-SELECTED-ec4899?style=for-the-badge&labelColor=030014"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Harvard%20Aspire-SELECTED-06b6d4?style=for-the-badge&labelColor=030014"/></td>
 </tr>
 </table>
+
+<img src="https://komarev.com/ghpvc/?username=Sadia-Farooque&style=for-the-badge&color=a855f7&labelColor=030014&label=PROFILE+VIEWS" alt="Profile views"/>&nbsp;
+<a href="https://www.linkedin.com/in/sadia-fatima-4334a9373/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-ec4899?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=030014"/></a>&nbsp;
+<a href="mailto:anamfarooque06@gmail.com"><img src="https://img.shields.io/badge/EMAIL-REACH%20OUT-06b6d4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=030014"/></a>
 
 </div>
 
 ---
 
-## 🌙 About Me
+## ▓▓ ABOUT.exe
 
-I study computer science at IBA Sukkur and build ML systems that are **explainable, defensible, and production-aware**. My work sits at the intersection of rigorous model evaluation and real-world deployment constraints — I care as much about *why* a model predicts something as *what* it predicts.
+```
+> role        : Computer Science student, ML Engineer
+> mission     : build ML systems that are explainable, defensible, production-aware
+> obsession   : the "why" behind a prediction, not just the "what"
+> currently   : Selected Participant — McKinsey Forward Program
+> also        : Harvard Aspire Leaders // LoopLab Campus Ambassador // CS Society Exec
+> philosophy  : leadership is systems thinking, just with humans
+```
 
-Outside of research and code, I lead. I'm a selected participant in **McKinsey Forward**, **Campus Ambassador for LoopLab**, sit on the **CS Society** as an Executive Member, and co-organized **SIBAthon'26**, our university's flagship hackathon. I was selected into the **Harvard Aspire Leaders Program** from a global applicant pool, and completed an **international ML Summer School** alongside 10,000+ students and professors worldwide.
-
-> I think the best engineers are also the ones who can coordinate teams, communicate trade-offs, and build things that outlast them.
-
----
-
-## 🚀 Featured Research & Projects
-
-<details open>
-<summary><b>🏦 FinGuard AI — ML Decision Engine for Banking</b></summary>
-<br/>
-
-`Python` `XGBoost` `SHAP` `MongoDB` `PyMongo`
-
-A unified ML platform addressing four banking problems in one pipeline: **credit risk assessment, fraud detection, customer churn prediction,** and **spend forecasting**. Each model selected using business-driven metrics — ROC-AUC, Recall, F1, RMSE, R². **SHAP-based explainability** makes every prediction auditable — a non-negotiable in regulated environments.
-
-🏅 *Showcased at SIBA as an applied ML benchmark for fintech problem-solving.*
-
-</details>
-
-<details>
-<summary><b>🧩 Maze Adventure — Algorithmic Game Engine</b></summary>
-<br/>
-
-`Java` `Java Swing` `BFS` `DFS` `Dijkstra` `MySQL`
-
-A feature-complete maze game where the engine matters as much as the UI. Enemy navigation runs on live BFS/DFS graph traversal, maze generation uses DFS, and MySQL handles all persistence — player state, lives, leaderboards.
-
-🏅 *Clean algorithm implementation recognized at the AI & CS Expo 2024.*
-
-</details>
-
-<details>
-<summary><b>🎮 Space Shooter — OOP Architecture Study</b></summary>
-<br/>
-
-`Java` `Java Swing` `MySQL`
-
-Built to demonstrate what disciplined OOP actually looks like in a non-trivial codebase — inheritance, polymorphism, and encapsulation across a modular system, with MySQL-backed scoring.
-
-🏅 *Runner-Up, SIBA Fest 2025, competing across all departments.*
-
-</details>
-
-<details>
-<summary><b>🛠️ In Progress — Raasta (AI Chatbot) & Resume Analyzer AI</b></summary>
-<br/>
-
-| Project | Stack | Status |
-|:---|:---|:---:|
-| **Raasta** — Conversational AI Assistant | `Python` `NLP` `LLM` | 🟢 Coming Soon |
-| **Resume Analyzer AI** — ML-powered resume parsing & evaluation | `Python` `NLP` `ML` | 🟢 Coming Soon |
-
-</details>
+<blockquote align="center">
+"An approximate answer to the right question is worth more than a precise answer to the wrong one." — John Tukey
+</blockquote>
 
 ---
 
-## ⚡ Technical Skills
+## ▓▓ LIVE METRICS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sadia-Farooque&show_icons=true&theme=radical&hide_border=true&bg_color=030014&title_color=ec4899&icon_color=06b6d4&text_color=e9d5ff" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadia-Farooque&theme=radical&hide_border=true&background=030014&stroke=a855f7&ring=ec4899&fire=ec4899&currStreakLabel=06b6d4" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadia-Farooque&layout=compact&theme=radical&hide_border=true&bg_color=030014&title_color=ec4899&text_color=e9d5ff" height="150"/>
+
+</div>
+
+---
+
+## ▓▓ PROJECT_LOG
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
+
+### 🏦 FinGuard AI
+**ML Decision Engine for Banking**
+
+`Python` `XGBoost` `SHAP` `MongoDB`
+
+Unified ML platform: credit risk, fraud detection, churn prediction, spend forecasting — one pipeline, business-driven metrics (ROC-AUC, F1, RMSE, R²), full SHAP-based explainability for regulated environments.
+
+`STATUS: Showcased @ SIBA — Applied ML Benchmark`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 Maze Adventure
+**Algorithmic Game Engine**
+
+`Java` `Swing` `BFS/DFS` `Dijkstra` `MySQL`
+
+Live BFS/DFS enemy navigation, DFS maze generation, full MySQL persistence for player state, lives, and leaderboards.
+
+`STATUS: Recognized @ AI & CS Expo 2024`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 Space Shooter
+**OOP Architecture Study**
+
+`Java` `Swing` `MySQL`
+
+Disciplined OOP across a modular, non-trivial codebase — inheritance, polymorphism, encapsulation, MySQL-backed scoring.
+
+`STATUS: Runner-Up — SIBA Fest 2025`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ In Progress
+**Raasta & Resume Analyzer AI**
+
+`Python` `NLP` `LLM`
+
+Raasta — conversational AI assistant. Resume Analyzer AI — ML-powered resume parsing & evaluation.
+
+`STATUS: 🟣 Building`
+
+</td>
+</tr>
+</table>
+
+---
+
+## ▓▓ TECH_STACK
+
+<div align="center">
 
 **Languages**
-![Python](https://img.shields.io/badge/Python-7f1d1d?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-7f1d1d?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-7f1d1d?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-7f1d1d?style=flat-square&logo=javascript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-7f1d1d?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-7f1d1d?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-7f1d1d?style=flat-square&logo=css3&logoColor=white)
+<br/>
+![Python](https://img.shields.io/badge/-Python-030014?style=for-the-badge&logo=python&logoColor=a855f7)
+![Java](https://img.shields.io/badge/-Java-030014?style=for-the-badge&logo=openjdk&logoColor=a855f7)
+![C++](https://img.shields.io/badge/-C++-030014?style=for-the-badge&logo=c%2B%2B&logoColor=a855f7)
+![JavaScript](https://img.shields.io/badge/-JavaScript-030014?style=for-the-badge&logo=javascript&logoColor=a855f7)
+![SQL](https://img.shields.io/badge/-SQL-030014?style=for-the-badge&logo=mysql&logoColor=a855f7)
 
 **ML & Data Science**
-![ML](https://img.shields.io/badge/Machine%20Learning-b91c1c?style=flat-square)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-b91c1c?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-b91c1c?style=flat-square)
-![SHAP](https://img.shields.io/badge/SHAP-b91c1c?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-b91c1c?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-b91c1c?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-b91c1c?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-b91c1c?style=flat-square)
+<br/>
+![ML](https://img.shields.io/badge/-Machine%20Learning-030014?style=for-the-badge&logoColor=ec4899)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-030014?style=for-the-badge&logo=scikit-learn&logoColor=ec4899)
+![XGBoost](https://img.shields.io/badge/-XGBoost-030014?style=for-the-badge&logoColor=ec4899)
+![SHAP](https://img.shields.io/badge/-SHAP-030014?style=for-the-badge&logoColor=ec4899)
+![Pandas](https://img.shields.io/badge/-Pandas-030014?style=for-the-badge&logo=pandas&logoColor=ec4899)
+![NumPy](https://img.shields.io/badge/-NumPy-030014?style=for-the-badge&logo=numpy&logoColor=ec4899)
 
-</td>
-<td valign="top" width="50%">
+**Databases, Tools & Core**
+<br/>
+![MySQL](https://img.shields.io/badge/-MySQL-030014?style=for-the-badge&logo=mysql&logoColor=06b6d4)
+![MongoDB](https://img.shields.io/badge/-MongoDB-030014?style=for-the-badge&logo=mongodb&logoColor=06b6d4)
+![Git](https://img.shields.io/badge/-Git-030014?style=for-the-badge&logo=git&logoColor=06b6d4)
+![GitHub](https://img.shields.io/badge/-GitHub-030014?style=for-the-badge&logo=github&logoColor=06b6d4)
+![VSCode](https://img.shields.io/badge/-VS%20Code-030014?style=for-the-badge&logo=visual-studio-code&logoColor=06b6d4)
+![OOP](https://img.shields.io/badge/-OOP%20//%20DSA-030014?style=for-the-badge&logoColor=06b6d4)
 
-**Evaluation & Model Quality**
-![ROC-AUC](https://img.shields.io/badge/ROC--AUC-991b1b?style=flat-square)
-![F1](https://img.shields.io/badge/F1--Score-991b1b?style=flat-square)
-![RMSE](https://img.shields.io/badge/RMSE-991b1b?style=flat-square)
-![R2](https://img.shields.io/badge/R²-991b1b?style=flat-square)
-![Explainability](https://img.shields.io/badge/Model%20Explainability-991b1b?style=flat-square)
-
-**Databases & Tools**
-![MySQL](https://img.shields.io/badge/MySQL-d4af37?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-d4af37?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-d4af37?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-d4af37?style=flat-square&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-d4af37?style=flat-square&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-d4af37?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-d4af37?style=flat-square&logo=vercel&logoColor=white)
-
-**CS Core**
-![OOP](https://img.shields.io/badge/OOP-1c1917?style=flat-square)
-![DSA](https://img.shields.io/badge/DSA-1c1917?style=flat-square)
-![BFS/DFS](https://img.shields.io/badge/BFS%2FDFS-1c1917?style=flat-square)
-![Dijkstra](https://img.shields.io/badge/Dijkstra-1c1917?style=flat-square)
-![DBMS](https://img.shields.io/badge/DBMS-1c1917?style=flat-square)
-![Networks](https://img.shields.io/badge/Computer%20Networks-1c1917?style=flat-square)
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## 🏆 Honors & Recognition
+## ▓▓ HONORS_LEADERBOARD
 
-<div align="center">
-
-| Year | Award | Body |
-|:---:|:---|:---|
-| 2026 | 💼 **McKinsey Forward Program** — Selected Participant | McKinsey & Company |
-| 2026 | 🥇 **LoopLab Campus Ambassador** — Selected Representative | LoopLab |
-| 2025 | 🎓 **Harvard Aspire Leaders Program** — Selected, Global Pool | Harvard University |
-| 2025 | 🌍 **International ML Summer School** — 10,000+ students & professors | Global Cohort |
-| 2025 | 🥈 **Runner-Up**, SIBA Fest Project Competition | Sukkur IBA University |
-| 2025 | 💻 **PM Youth Laptop Scheme** — Merit Award, Top BSCS nationally | Government of Pakistan |
-| 2024 | 🏅 **Certificate of Recognition**, AI & CS Expo | Sukkur IBA University |
-| 2026 | 🏦 **FinGuard AI** — Showcased as Applied ML Benchmark | Sukkur IBA University |
-
-</div>
+| Rank | Achievement | Body | Year |
+|:---:|:---|:---|:---:|
+| 🥇 | **McKinsey Forward Program** — Selected Participant | McKinsey & Company | 2026 |
+| 🥇 | **Harvard Aspire Leaders Program** — Selected, Global Pool | Harvard University | 2025 |
+| 🥈 | **LoopLab Campus Ambassador** — Selected Representative | LoopLab | 2026 |
+| 🥈 | **International ML Summer School** — 10,000+ students & professors | Global Cohort | 2025 |
+| 🥉 | **Runner-Up**, SIBA Fest Project Competition | Sukkur IBA University | 2025 |
+| 🥉 | **PM Youth Laptop Scheme** — Merit Award, Top BSCS nationally | Government of Pakistan | 2025 |
+| ⭐ | **Certificate of Recognition**, AI & CS Expo | Sukkur IBA University | 2024 |
+| ⭐ | **FinGuard AI** — Showcased as Applied ML Benchmark | Sukkur IBA University | 2026 |
 
 <details>
 <summary><b>📜 Certifications</b></summary>
@@ -186,57 +186,50 @@ Built to demonstrate what disciplined OOP actually looks like in a non-trivial c
 
 ---
 
-## 🎤 Leadership
+## ▓▓ LEADERSHIP_NODES
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 
-**Selected Participant · McKinsey Forward**
-`2026`
-
-Selected into McKinsey & Company's global career-readiness and leadership development program, focused on problem-solving, communication, and workplace effectiveness.
-
-</td>
-<td width="33%" valign="top">
-
-**Campus Ambassador · LoopLab**
-`2026 – Present`
-
-Represent LoopLab on campus — driving awareness, community engagement, and program participation among students at IBA Sukkur.
+**💼 McKinsey Forward**
+<br/><sub>Selected Participant · 2026</sub>
+<br/><br/>
+Global career-readiness and leadership development program — problem-solving, communication, workplace effectiveness.
 
 </td>
-<td width="34%" valign="top">
+<td width="33%" align="center" valign="top">
 
-**Executive Member · CS Society, IBA Sukkur**
-`2025 – 2026`
+**🚀 LoopLab**
+<br/><sub>Campus Ambassador · 2026–Present</sub>
+<br/><br/>
+Driving awareness, community engagement, and program participation at IBA Sukkur.
 
-Selected on merit from the full student cohort. Co-organized **SIBAthon'26** — end-to-end event management, participant coordination, challenge track design, and mentorship on the day.
+</td>
+<td width="34%" align="center" valign="top">
+
+**⚙️ CS Society**
+<br/><sub>Executive Member · 2025–2026</sub>
+<br/><br/>
+Merit-selected. Co-organized SIBAthon'26 — full event management, tracks, and mentorship.
 
 </td>
 </tr>
 </table>
 
-> I think leadership is an engineering skill. Coordinating people toward a shared technical goal, communicating decisions under uncertainty, and building things that work without you — that's systems thinking, just with humans.
-
 ---
 
 <div align="center">
 
-### 💌 Let's connect
+## ▓▓ CONNECT
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-b91c1c?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadia-fatima-4334a9373/)
-[![Email](https://img.shields.io/badge/Email-d4af37?style=for-the-badge&logo=gmail&logoColor=black)](mailto:anamfarooque06@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sadia-Farooque)
-[![Credly](https://img.shields.io/badge/Credly-d4af37?style=for-the-badge&logo=credly&logoColor=black)](https://www.credly.com/)
-
-<br/>
-
-*"An approximate answer to the right question is worth more than a precise answer to the wrong one."*
-— John Tukey
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ec4899?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=030014)](https://www.linkedin.com/in/sadia-fatima-4334a9373/)
+[![Email](https://img.shields.io/badge/Email-06b6d4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=030014)](mailto:anamfarooque06@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-a855f7?style=for-the-badge&logo=github&logoColor=white&labelColor=030014)](https://github.com/Sadia-Farooque)
+[![Credly](https://img.shields.io/badge/Credly-ec4899?style=for-the-badge&logo=credly&logoColor=white&labelColor=030014)](https://www.credly.com/)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,50:7f1d1d,100:d4af37&height=150&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,35:ec4899,70:a855f7,100:030014&height=150&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
