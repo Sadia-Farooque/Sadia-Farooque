@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f766e,50:0369a1,100:facc15&height=250&section=header&text=SADIA%20FATIMA&fontColor=ffffff&fontSize=50&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Explainable%20AI&descColor=fef9c3&descSize=17&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,50:7f1d1d,100:d4af37&height=250&section=header&text=SADIA%20FATIMA&fontColor=ffffff&fontSize=50&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Explainable%20AI&descColor=e5c158&descSize=17&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=2800&pause=1200&color=0369A1&center=true&vCenter=true&width=700&lines=Turning+black-box+models+into+auditable+decisions.;SHAP-driven+fintech+ML+%7C+production-aware+engineering.;McKinsey+Forward+%7C+Harvard+Aspire+%7C+LoopLab.;Sukkur+IBA+University+%E2%80%94+BSCS+%2728" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=2800&pause=1200&color=D4AF37&center=true&vCenter=true&width=700&lines=Turning+black-box+models+into+auditable+decisions.;SHAP-driven+fintech+ML+%7C+production-aware+engineering.;McKinsey+Forward+%7C+Harvard+Aspire+%7C+LoopLab.;Sukkur+IBA+University+%E2%80%94+BSCS+%2728" alt="Typing SVG"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Sadia-Farooque&style=for-the-badge&color=0f766e&labelColor=0c4a6e" alt="Profile views"/>&nbsp;
-<a href="https://www.linkedin.com/in/sadia-fatima-4334a9373/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0369a1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0c4a6e"/></a>&nbsp;
-<a href="mailto:anamfarooque06@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-0f766e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0c4a6e"/></a>
+<img src="https://komarev.com/ghpvc/?username=Sadia-Farooque&style=for-the-badge&color=7f1d1d&labelColor=0a0a0a" alt="Profile views"/>&nbsp;
+<a href="https://www.linkedin.com/in/sadia-fatima-4334a9373/"><img src="https://img.shields.io/badge/LinkedIn-Connect-b91c1c?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a"/></a>&nbsp;
+<a href="mailto:anamfarooque06@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-d4af37?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0a0a0a"/></a>
 
 </div>
 
@@ -103,50 +103,50 @@ Built to demonstrate what disciplined OOP actually looks like in a non-trivial c
 <td valign="top" width="50%">
 
 **Languages**
-![Python](https://img.shields.io/badge/Python-0f766e?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-0f766e?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-0f766e?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f766e?style=flat-square&logo=javascript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-0f766e?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-0f766e?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-0f766e?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-7f1d1d?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-7f1d1d?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-7f1d1d?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-7f1d1d?style=flat-square&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-7f1d1d?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-7f1d1d?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-7f1d1d?style=flat-square&logo=css3&logoColor=white)
 
 **ML & Data Science**
-![ML](https://img.shields.io/badge/Machine%20Learning-0369a1?style=flat-square)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0369a1?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-0369a1?style=flat-square)
-![SHAP](https://img.shields.io/badge/SHAP-0369a1?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-0369a1?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-0369a1?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0369a1?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-0369a1?style=flat-square)
+![ML](https://img.shields.io/badge/Machine%20Learning-b91c1c?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-b91c1c?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-b91c1c?style=flat-square)
+![SHAP](https://img.shields.io/badge/SHAP-b91c1c?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-b91c1c?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-b91c1c?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-b91c1c?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-b91c1c?style=flat-square)
 
 </td>
 <td valign="top" width="50%">
 
 **Evaluation & Model Quality**
-![ROC-AUC](https://img.shields.io/badge/ROC--AUC-1e3a8a?style=flat-square)
-![F1](https://img.shields.io/badge/F1--Score-1e3a8a?style=flat-square)
-![RMSE](https://img.shields.io/badge/RMSE-1e3a8a?style=flat-square)
-![R2](https://img.shields.io/badge/R²-1e3a8a?style=flat-square)
-![Explainability](https://img.shields.io/badge/Model%20Explainability-1e3a8a?style=flat-square)
+![ROC-AUC](https://img.shields.io/badge/ROC--AUC-991b1b?style=flat-square)
+![F1](https://img.shields.io/badge/F1--Score-991b1b?style=flat-square)
+![RMSE](https://img.shields.io/badge/RMSE-991b1b?style=flat-square)
+![R2](https://img.shields.io/badge/R²-991b1b?style=flat-square)
+![Explainability](https://img.shields.io/badge/Model%20Explainability-991b1b?style=flat-square)
 
 **Databases & Tools**
-![MySQL](https://img.shields.io/badge/MySQL-b45309?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-b45309?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-b45309?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-b45309?style=flat-square&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-b45309?style=flat-square&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-b45309?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-b45309?style=flat-square&logo=vercel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-d4af37?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-d4af37?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-d4af37?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-d4af37?style=flat-square&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-d4af37?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-d4af37?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-d4af37?style=flat-square&logo=vercel&logoColor=white)
 
 **CS Core**
-![OOP](https://img.shields.io/badge/OOP-334155?style=flat-square)
-![DSA](https://img.shields.io/badge/DSA-334155?style=flat-square)
-![BFS/DFS](https://img.shields.io/badge/BFS%2FDFS-334155?style=flat-square)
-![Dijkstra](https://img.shields.io/badge/Dijkstra-334155?style=flat-square)
-![DBMS](https://img.shields.io/badge/DBMS-334155?style=flat-square)
-![Networks](https://img.shields.io/badge/Computer%20Networks-334155?style=flat-square)
+![OOP](https://img.shields.io/badge/OOP-1c1917?style=flat-square)
+![DSA](https://img.shields.io/badge/DSA-1c1917?style=flat-square)
+![BFS/DFS](https://img.shields.io/badge/BFS%2FDFS-1c1917?style=flat-square)
+![Dijkstra](https://img.shields.io/badge/Dijkstra-1c1917?style=flat-square)
+![DBMS](https://img.shields.io/badge/DBMS-1c1917?style=flat-square)
+![Networks](https://img.shields.io/badge/Computer%20Networks-1c1917?style=flat-square)
 
 </td>
 </tr>
@@ -225,10 +225,10 @@ Selected on merit from the full student cohort. Co-organized **SIBAthon'26** —
 
 ### 💌 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0369a1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadia-fatima-4334a9373/)
-[![Email](https://img.shields.io/badge/Email-0f766e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anamfarooque06@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0c4a6e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sadia-Farooque)
-[![Credly](https://img.shields.io/badge/Credly-facc15?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-b91c1c?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadia-fatima-4334a9373/)
+[![Email](https://img.shields.io/badge/Email-d4af37?style=for-the-badge&logo=gmail&logoColor=black)](mailto:anamfarooque06@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sadia-Farooque)
+[![Credly](https://img.shields.io/badge/Credly-d4af37?style=for-the-badge&logo=credly&logoColor=black)](https://www.credly.com/)
 
 <br/>
 
@@ -237,6 +237,6 @@ Selected on merit from the full student cohort. Co-organized **SIBAthon'26** —
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f766e,50:0369a1,100:facc15&height=150&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,50:7f1d1d,100:d4af37&height=150&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
