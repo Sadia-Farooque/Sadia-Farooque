@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,40:3b0a45,70:6b0f1a,100:000000&height=190&text=SADIA%20FATIMA&fontColor=e2c9ff&fontSize=46&fontAlignY=42&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Explainable%20AI%20Builder&descColor=9d8ab0&descSize=15&descAlignY=68&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1200&color=9333EA&center=true&vCenter=true&width=800&lines=summoning+the+model...;training+in+the+dark...;explainability+or+it+didn't+happen." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1200&color=9333EA&center=true&vCenter=true&width=800&lines=building+ML+systems+that+explain+themselves;BSCS+%2728+%40+Sukkur+IBA+University;McKinsey+Forward+%C2%B7+Harvard+Aspire+%C2%B7+LoopLab" alt="Typing SVG"/>
 
 </div>
 
@@ -12,9 +12,9 @@
 
 <br>
 
-### 🕯️ who's lurking here
+### 🕯️ about me
 
-BSCS '28 at Sukkur IBA University, haunting the space between machine learning and interpretability. I build models that don't just make predictions in the dark — they explain themselves when the lights come on. Selected for McKinsey Forward and Harvard Aspire Leaders, currently a LoopLab Campus Ambassador.
+BSCS '28 at Sukkur IBA University, working at the intersection of machine learning and interpretability. I build models that don't just make predictions — they justify them, which matters most in high-stakes, regulated settings like finance. Selected for McKinsey Forward and Harvard Aspire Leaders, and currently serving as a LoopLab Campus Ambassador.
 
 <br>
 
@@ -41,33 +41,33 @@ BSCS '28 at Sukkur IBA University, haunting the space between machine learning a
 
 ---
 
-### 🩸 the graveyard of projects
+### 🩸 featured work
 
 **FinGuard AI** — *ML Decision Engine for Banking*
-A unified pipeline for credit risk, fraud detection, churn, and spend forecasting — one system, business-driven metrics, SHAP explainability throughout. `Python` `XGBoost` `SHAP` `MongoDB`
-> Showcased @ Sukkur IBA as an Applied ML Benchmark
+A unified pipeline for credit risk, fraud detection, churn, and spend forecasting — one system, business-driven metrics, SHAP-based explainability throughout. `Python` `XGBoost` `SHAP` `MongoDB`
+> Showcased at Sukkur IBA as an Applied ML Benchmark
 
 &nbsp;
 
 **Maze Adventure** — *Algorithmic Game Engine*
-Enemies that hunt you down with live BFS/DFS, a DFS-generated labyrinth, and MySQL persistence for lives, state, and leaderboards. `Java` `Swing` `BFS/DFS` `Dijkstra` `MySQL`
-> Recognized @ AI & CS Expo 2024
+Live BFS/DFS enemy navigation, a DFS-generated maze, and full MySQL persistence for player lives, state, and leaderboards. `Java` `Swing` `BFS/DFS` `Dijkstra` `MySQL`
+> Recognized at the AI & CS Expo, 2024
 
 &nbsp;
 
 **Space Shooter** — *OOP Architecture Study*
-A modular codebase built to prove disciplined OOP — inheritance, polymorphism, encapsulation — with MySQL-backed scoring. `Java` `Swing` `MySQL`
+A modular, non-trivial codebase demonstrating disciplined object-oriented design — inheritance, polymorphism, encapsulation — with MySQL-backed scoring. `Java` `Swing` `MySQL`
 > Runner-Up, SIBA Fest 2025
 
 &nbsp;
 
-**In the crypt, still building** — *Raasta & Resume Analyzer AI*
-Raasta: a conversational AI assistant. Resume Analyzer AI: ML-powered resume parsing & evaluation. `Python` `NLP` `LLM`
-> 🕸️ Status: actively haunting my GitHub commits
+**In progress** — *Raasta & Resume Analyzer AI*
+Raasta: a conversational AI assistant. Resume Analyzer AI: an ML-powered resume parsing and evaluation tool. `Python` `NLP` `LLM`
+> Status: actively in development
 
 ---
 
-### ⚰️ the toolbox
+### ⚰️ toolbox
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,mysql,mongodb,git,github,vscode&theme=dark"/>
@@ -96,7 +96,7 @@ Raasta: a conversational AI assistant. Resume Analyzer AI: ML-powered resume par
 
 ---
 
-### 🦇 milestones, in order of appearance
+### 🦇 milestones
 
 - **2026** — Selected Participant, **McKinsey Forward Program** (McKinsey & Company)
 - **2026** — Campus Ambassador, **LoopLab** — selected representative
@@ -108,7 +108,7 @@ Raasta: a conversational AI assistant. Resume Analyzer AI: ML-powered resume par
 - **2024** — Certificate of Recognition, **AI & CS Expo** (Sukkur IBA)
 
 <details>
-<summary><b>📜 certifications buried in the archive</b></summary>
+<summary><b>📜 certifications</b></summary>
 <br>
 
 | Certification | Issuer | Year |
@@ -124,7 +124,7 @@ Raasta: a conversational AI assistant. Resume Analyzer AI: ML-powered resume par
 
 ---
 
-### 🕷️ leadership, cast of characters
+### 🕷️ leadership & involvement
 
 <table>
 <tr><td width="33%">
