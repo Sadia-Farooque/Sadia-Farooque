@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,40:3b0a45,70:6b0f1a,100:000000&height=190&text=SADIA%20FATIMA&fontColor=e2c9ff&fontSize=46&fontAlignY=42&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Explainable%20AI%20Builder&descColor=9d8ab0&descSize=15&descAlignY=68&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0a0f14,40:134e4a,70:155e75,100:0a0f14&height=190&text=SADIA%20FATIMA&fontColor=ccfbf1&fontSize=46&fontAlignY=42&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Explainable%20AI%20Builder&descColor=94a3b8&descSize=15&descAlignY=68&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1200&color=9333EA&center=true&vCenter=true&width=800&lines=building+ML+systems+that+explain+themselves;BSCS+%2728+%40+Sukkur+IBA+University;McKinsey+Forward+%C2%B7+Harvard+Aspire+%C2%B7+LoopLab" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1200&color=14B8A6&center=true&vCenter=true&width=800&lines=building+ML+systems+that+explain+themselves;BSCS+%2728+%40+Sukkur+IBA+University;McKinsey+Forward+%C2%B7+Harvard+Aspire+%C2%B7+LoopLab" alt="Typing SVG"/>
 
 </div>
 
@@ -28,9 +28,9 @@ BSCS '28 at Sukkur IBA University, working at the intersection of machine learni
 </table>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sadia-fatima-4334a9373/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=9333ea"/></a>
-<a href="mailto:anamfarooque06@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=b91c1c"/></a>
-<a href="https://github.com/Sadia-Farooque"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=e2c9ff"/></a>
+<a href="https://www.linkedin.com/in/sadia-fatima-4334a9373/"><img src="https://img.shields.io/badge/LinkedIn-0a0f14?style=for-the-badge&logo=linkedin&logoColor=14b8a6"/></a>
+<a href="mailto:anamfarooque06@gmail.com"><img src="https://img.shields.io/badge/Email-0a0f14?style=for-the-badge&logo=gmail&logoColor=22d3ee"/></a>
+<a href="https://github.com/Sadia-Farooque"><img src="https://img.shields.io/badge/GitHub-0a0f14?style=for-the-badge&logo=github&logoColor=ccfbf1"/></a>
 </p>
 
 ---
@@ -90,8 +90,8 @@ Raasta: a conversational AI assistant. Resume Analyzer AI: an ML-powered resume 
 ### 👻 GitHub pulse
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sadia-Farooque&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=000000&title_color=9333ea&icon_color=b91c1c&text_color=c4b5c9" height="160"/>
-<img src="https://streak-stats.demolab.com?user=Sadia-Farooque&theme=nightowl&hide_border=true&background=000000&stroke=9333ea&ring=b91c1c&fire=b91c1c&currStreakLabel=e2c9ff" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sadia-Farooque&show_icons=true&theme=react&hide_border=true&bg_color=0a0f14&title_color=14b8a6&icon_color=22d3ee&text_color=b3c4cc" height="160"/>
+<img src="https://streak-stats.demolab.com?user=Sadia-Farooque&theme=nightowl&hide_border=true&background=0a0f14&stroke=14b8a6&ring=22d3ee&fire=22d3ee&currStreakLabel=ccfbf1" height="160"/>
 </div>
 
 ---
@@ -154,10 +154,10 @@ Merit-selected; co-organized SIBAthon'26 end-to-end.
 
 ### 🖤 reach me, if you dare
 
-[![LinkedIn](https://img.shields.io/badge/-Connect-3b0a45?style=for-the-badge&logo=linkedin&logoColor=e2c9ff)](https://www.linkedin.com/in/sadia-fatima-4334a9373/)
-[![Email](https://img.shields.io/badge/-Say%20Hi-6b0f1a?style=for-the-badge&logo=gmail&logoColor=e2c9ff)](mailto:anamfarooque06@gmail.com)
-[![GitHub](https://img.shields.io/badge/-Follow-000000?style=for-the-badge&logo=github&logoColor=e2c9ff)](https://github.com/Sadia-Farooque)
+[![LinkedIn](https://img.shields.io/badge/-Connect-134e4a?style=for-the-badge&logo=linkedin&logoColor=ccfbf1)](https://www.linkedin.com/in/sadia-fatima-4334a9373/)
+[![Email](https://img.shields.io/badge/-Say%20Hi-155e75?style=for-the-badge&logo=gmail&logoColor=ccfbf1)](mailto:anamfarooque06@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Follow-0a0f14?style=for-the-badge&logo=github&logoColor=ccfbf1)](https://github.com/Sadia-Farooque)
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,40:6b0f1a,70:3b0a45,100:000000&height=110&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0a0f14,40:155e75,70:134e4a,100:0a0f14&height=110&animation=fadeIn" width="100%"/>
 
 </div>
