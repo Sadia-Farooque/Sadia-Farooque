@@ -326,7 +326,7 @@ Merit-selected; co-organized SIBAthon'26 end-to-end.
 
 <div align="center">
 
-## 🖤 reach me, if you dare
+## 🖤 I will love to connect !
 
 <sub>open to remote roles, research collaborations, and anything involving interpretable ML.</sub>
 
