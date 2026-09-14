@@ -65,7 +65,7 @@ BSCS '28 at Sukkur IBA University, working at the intersection of machine learni
 <br>
 
 <details>
-<summary><h3 style="display:inline">🏦 FinGuard AI &nbsp;—&nbsp; <sub>ML Decision Engine for Banking</sub></h3></summary>
+<summary><b>🏦 FinGuard AI</b> &nbsp;—&nbsp; <sub>ML Decision Engine for Banking</sub></summary>
 
 <br>
 
@@ -101,7 +101,7 @@ flowchart LR
 </details>
 
 <details>
-<summary><h3 style="display:inline">🧩 Maze Adventure &nbsp;—&nbsp; <sub>Algorithmic Game Engine</sub></h3></summary>
+<summary><b>🧩 Maze Adventure</b> &nbsp;—&nbsp; <sub>Algorithmic Game Engine</sub></summary>
 
 <br>
 
@@ -131,7 +131,7 @@ flowchart TD
 </details>
 
 <details>
-<summary><h3 style="display:inline">🚀 Space Shooter &nbsp;—&nbsp; <sub>OOP Architecture Study</sub></h3></summary>
+<summary><b>🚀 Space Shooter</b> &nbsp;—&nbsp; <sub>OOP Architecture Study</sub></summary>
 
 <br>
 
@@ -146,7 +146,7 @@ The goal was architectural, not visual: adding a new enemy type or weapon should
 </details>
 
 <details>
-<summary><h3 style="display:inline">🛠️ In Progress &nbsp;—&nbsp; <sub>Raasta & Resume Analyzer AI</sub></h3></summary>
+<summary><b>🛠️ In Progress</b> &nbsp;—&nbsp; <sub>Raasta &amp; Resume Analyzer AI</sub></summary>
 
 <br>
 
@@ -219,7 +219,7 @@ mindmap
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sadia-Farooque&show_icons=true&theme=react&hide_border=true&bg_color=0f0a14&title_color=8b5cf6&icon_color=c084fc&text_color=c4b5fd&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://streak-stats.demolab.com?user=Sadia-Farooque&theme=dracula&hide_border=true&background=0f0a14&stroke=8b5cf6&ring=c084fc&fire=c084fc&currStreakLabel=ede9fe&sideLabels=c4b5fd&dates=a78bfa" height="165"/>
+<img src="https://streak-stats.demolab.com?user=Sadia-Farooque&hide_border=true&background=0f0a14&stroke=8b5cf6&ring=c084fc&fire=c084fc&currStreakLabel=ede9fe&currStreakNum=ede9fe&sideNums=c4b5fd&sideLabels=c4b5fd&dates=a78bfa" height="165"/>
 
 <br><br>
 
