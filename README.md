@@ -218,20 +218,19 @@ mindmap
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sadia-Farooque&show_icons=true&theme=react&hide_border=true&bg_color=0f0a14&title_color=8b5cf6&icon_color=c084fc&text_color=c4b5fd&include_all_commits=true&count_private=true" height="165"/>
 <img src="https://streak-stats.demolab.com?user=Sadia-Farooque&hide_border=true&background=0f0a14&stroke=8b5cf6&ring=c084fc&fire=c084fc&currStreakLabel=ede9fe&currStreakNum=ede9fe&sideNums=c4b5fd&sideLabels=c4b5fd&dates=a78bfa" height="165"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadia-Farooque&layout=compact&theme=react&hide_border=true&bg_color=0f0a14&title_color=8b5cf6&text_color=c4b5fd&langs_count=8" height="150"/>
+<img src="https://img.shields.io/github/followers/Sadia-Farooque?style=for-the-badge&logo=github&logoColor=ede9fe&label=FOLLOWERS&labelColor=0f0a14&color=6d28d9"/>
+<img src="https://img.shields.io/badge/PRIMARY-Python-0f0a14?style=for-the-badge&labelColor=4c1d95&color=8b5cf6"/>
+<img src="https://img.shields.io/badge/FOCUS-Explainable%20ML-0f0a14?style=for-the-badge&labelColor=4c1d95&color=c084fc"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadia-Farooque&bg_color=0f0a14&color=ede9fe&line=8b5cf6&point=c084fc&area=true&area_color=4c1d95&hide_border=true&custom_title=contribution%20activity" width="100%"/>
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sadia-Farooque&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6"/>
+<a href="https://github.com/Sadia-Farooque">
+<img src="https://ghchart.rshah.org/8b5cf6/Sadia-Farooque" alt="contribution heatmap" width="94%"/>
+</a>
 
 </div>
 
